@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sw2024bgr1_vaes</string>
+    <string name="saludo">Hello Friends</string>
+    <color name="saludo_color">#B4700B</color>
+    <string name="title_activity_blist_view">BListView</string>
+</resources>
