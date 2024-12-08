@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="texto">este es un mensaje en español "land"</string>
+    <color name="background_color">#9EA6D0</color>
+    <color name="text_color">#3C1D13</color>
+
+</resources>

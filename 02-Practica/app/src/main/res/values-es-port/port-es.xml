@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="texto">este es un mensaje en español "port"</string>
+    <color name="background_color">#C17670</color>
+    <color name="text_color">#FFFFFF</color>
+
+
+</resources>

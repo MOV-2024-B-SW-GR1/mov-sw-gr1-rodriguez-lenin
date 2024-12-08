@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="texto">this is a message in english "land"</string>
+    <color name="background_color">#D1BA67</color>
+    <color name="text_color">#03A9F4</color>
+
+
+</resources>

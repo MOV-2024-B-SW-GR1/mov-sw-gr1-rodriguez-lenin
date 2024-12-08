@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sw2024bgr1_ldrb</string>
+    <string name="saludo">Hola amigos</string>
+    <color name="colorRecurso">#B83636</color>
+</resources>
