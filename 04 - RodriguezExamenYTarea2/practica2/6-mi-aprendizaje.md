@@ -1,0 +1,2 @@
+# COMPLETAR  
+La sesión brindó una comprensión exhaustiva sobre cómo crear, configurar y gestionar contenedores Docker para aplicaciones web y de bases de datos. Se enfatizó la importancia de configurar redes Docker para garantizar una comunicación segura entre los contenedores. Además, se examinaron aspectos cruciales de la gestión de redes Docker, como la desconexión de contenedores y la eliminación de redes sin perjudicar a los contenedores en funcionamiento.

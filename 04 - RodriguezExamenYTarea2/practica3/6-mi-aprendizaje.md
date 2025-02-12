@@ -1,0 +1,2 @@
+# COMPLETAR  
+Llevar a cabo esta práctica me ayudó a fortalecer mis habilidades en Docker y a aprender nuevas técnicas para gestionar volúmenes y redes de manera más eficiente. Entendí la relevancia de ser meticuloso y prestar atención a los detalles al configurar contenedores y volúmenes, lo cual es esencial para el despliegue exitoso de aplicaciones en entornos de contenedores. Estos conocimientos resultan sumamente valiosos para mi formación profesional en la administración de sistemas y el desarrollo de aplicaciones distribuidas.
