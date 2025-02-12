@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sw2024bgr1_vaes</string>
+    <string name="saludo">Hello Friends</string>
+    <color name="saludo_color">#B4700B</color>
+    <string name="title_activity_blist_view">BListView</string>
+    <string-array name="string_array_opciones_dialogo">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+    </string-array>
+    <string name="title_activity_ggoogle_maps_placeholder">GGoogleMapsPlaceholder</string>
+</resources>
